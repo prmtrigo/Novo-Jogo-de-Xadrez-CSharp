@@ -1,0 +1,15 @@
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.csproj.AssemblyReference.cache
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.AssemblyInfoInputs.cache
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.AssemblyInfo.cs
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\bin\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.exe
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\bin\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.deps.json
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\bin\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.runtimeconfig.json
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\bin\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.dll
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\bin\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.pdb
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.dll
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\refint\Novo-Jogo-de-Xadrez-CSharp.dll
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.pdb
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\Novo-Jogo-de-Xadrez-CSharp.genruntimeconfig.cache
+C:\Users\trigo\Novo-Jogo-de-Xadrez-CSharp\obj\Debug\net7.0\ref\Novo-Jogo-de-Xadrez-CSharp.dll

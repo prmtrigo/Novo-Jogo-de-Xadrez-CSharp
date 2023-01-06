@@ -2,11 +2,16 @@
 using System;
 using tabuleiro;
 
+
 namespace xadrez_console{
-    static void Main(string[] args){
+    class Program{
+        static void Main(string[] args){
 
-        Tabuleiro tab = new Tabuleiro(8,8);
+            Tabuleiro tab = new Tabuleiro(8,8);
 
-        Console.ReadLine();
+            Tela.imprimirTabuleiro(tab);
+
+            Console.ReadLine();
+        }
     }
 }
